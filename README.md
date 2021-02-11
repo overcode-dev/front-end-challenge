@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="Overcode" src="https://i.ibb.co/k1HgdVP/Logo.png" height="60px" />
-</h1>
-
 ![App Screenshot](https://i.ibb.co/613mqN2/Home-Dark.png)
 
 The application should be made based on this [layout](https://www.figma.com/file/lpNy2FDAILuxhwwPn4Vz0H/Front-end-Challenge-Bravosul?node-id=0%3A1).
