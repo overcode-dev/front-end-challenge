@@ -1,6 +1,6 @@
 ![App Screenshot](https://i.ibb.co/613mqN2/Home-Dark.png)
 
-The application should be made based on this [layout](https://www.figma.com/file/lpNy2FDAILuxhwwPn4Vz0H/Front-end-Challenge-Bravosul?node-id=0%3A1).
+The application should be made based on this [layout](https://www.figma.com/file/sz8IzWWZogkhrYPECQatiI/Challenge-Front-end?node-id=0%3A1).
 
 # :shoe: Steps
 
